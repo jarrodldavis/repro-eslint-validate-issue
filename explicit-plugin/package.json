@@ -5,6 +5,7 @@
   "repository": "jarrodldavis/repro-eslint-validate-issue",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jarrod Davis <developer@jarrodldavis.com>",
