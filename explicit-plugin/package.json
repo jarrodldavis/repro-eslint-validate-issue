@@ -1,0 +1,16 @@
+{
+  "name": "@jarrodldavis/repro-eslint-validate-issue-explicit-plugin",
+  "version": "1.0.0",
+  "description": "Explicit plugin specified in ESLint config",
+  "repository": "jarrodldavis/repro-eslint-validate-issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarrod Davis <developer@jarrodldavis.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-plugin-node": "^8.0.1"
+  }
+}
