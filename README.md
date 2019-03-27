@@ -51,7 +51,7 @@ $ npm run lint
 ✖ 2 problems (2 errors, 0 warnings)
 ```
 
-## Direcotory diff
+## Directory diff
 
 Here is a commandline diff of the two directories
 
