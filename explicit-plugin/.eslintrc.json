@@ -4,6 +4,7 @@
         "es6": true,
         "node": true
     },
+    "plugins": ["node"],
     "extends": ["eslint:recommended", "plugin:node/recommended"],
     "globals": {
         "Atomics": "readonly",
